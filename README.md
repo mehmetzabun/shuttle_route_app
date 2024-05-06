@@ -20,7 +20,7 @@ In this application, it was created in order to enable a service company to see 
 The number of passengers on the route can be changed by entering the admin in the application, and the points where the service will be purchased are shown on the map.
 
 
-#### Uygulama Görselleri / Application İmages :
+### Uygulama Görselleri / Application Images :
 
 
 

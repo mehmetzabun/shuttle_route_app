@@ -11,6 +11,8 @@ Uygulamada admin girişi yapılarak güzergahtaki yolcu sayısı değiştirilebi
 
 ### [EN]
 
+A new  [Flutter](https://flutter.dev/) project.
+
 This application was developed with Flutter using Dart programming language. The phpMyAdmin database was used during the development of the application.
 
 In this application, it was created in order to enable a service company to see how many passengers are at which stop and to perform a service operation accordingly.

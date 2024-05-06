@@ -1,16 +1,9 @@
-# Shuttle Route App
+## Shuttle Route App
 
-A new Flutter project.
+Yeni bir  [Flutter](https://flutter.dev/) projesi.
 
-## Getting Started
+Bu uygulama Dart programlama dili kullanılarak Flutter ile geliştirilmiştir. Uygulama geliştirilirken [phpMyAdmin](https://www.phpmyadmin.net/) veri tabanı kullanılmıştır.
 
-This project is a starting point for a Flutter application.
+Bu uygulamada bir servis firmasının hangi durakta kaç yolcu olduğunu görebilmesi ve buna yönelik olarak bir servis operasyonu gerçekleştirmesini sağlamak amacıyla oluşturulmuştur.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Uygulamada admin girişi yapılarak güzergahtaki yolcu sayısı değiştirilebilmektedir ve servisin alım yapacağı noktalar  harita üzerinde gösterilmektedir.
